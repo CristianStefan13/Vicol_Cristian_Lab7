@@ -9,16 +9,18 @@
             Padding="30,0"
             VerticalOptions="Center">
 
+          
             <Image
-                Source="dotnet_bot.png"
+                Source="messi.png"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
+
             <Label
-                Text="Buna dimineata!"
+                Text="Buna dimineata"
                 SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
+                FontSize="50"
                 HorizontalOptions="Center" />
 
             <Label
